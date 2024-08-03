@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Front-end Developer, currently learning Backend by doing various projects.<br>Grateful to have the opportunity to learn and provide value to the end user using the Engineering Brain🧠.<br><br>
+I'm a Full-Stack Developer.<br>Grateful to have the opportunity to learn and provide value to the end user using the Engineering Brain🧠.<br><br>
 
 
 ## 🌐 Socials:
