@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Full-Stack Developer.<br>Grateful to have the opportunity to learn and provide value to the end user using the Engineering Brain🧠.<br><br>
+Full-Stack Developer
+I believe in the power of the Engineering Brain🧠 to transform ideas into reality, making users' lives better with each line of code.
+Software Engineer by trade, I've mastered Front-end artistry and am now conquering Backend complexities, always eager to learn.
+My passion for reading fuels my curiosity and energy, driving me to innovate and excel.
+I'm here to prove that with creativity and dedication, even the craziest ideas can lead to groundbreaking solutions.<br><br>
 
 
 ## 🌐 Socials:
